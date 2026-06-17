@@ -1,16 +1,28 @@
-# Python-Projects
 Expense Tracker
- This project helps users track and manage daily expenses.Built using Python, it allows users to add, view, update,delete and monitor expenses efficiently.
 
- Skills used
-  Python
-  File handling
-  Crud Operations
-  Data management
-  User input validation
+Project Description
 
-  Features
-   Add Expenses
-   view Expenses
-   Edit Expenses
-   Delete Expenses
+This project helps users track and manage daily expenses.
+
+Built using Python, it allows users to:
+
+- Add expenses
+- View expenses
+- Edit expenses
+- Delete expenses
+- Monitor expenses efficiently
+
+Skills Used
+
+- Python
+- File Handling
+- CRUD Operations
+- Data Management
+- User Input Validation
+
+Features
+
+- Add Expenses
+- View Expenses
+- Edit Expenses
+- Delete Expenses
